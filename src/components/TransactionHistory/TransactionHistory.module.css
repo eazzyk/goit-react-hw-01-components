@@ -1,0 +1,23 @@
+.transaction_history {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10px;
+  width: 480px;
+  border: 1px solid;
+  border-color: grey;
+}
+
+.transaction_history_head {
+  font-size: 20px;
+  color: darkslategrey;
+  padding: 20px;
+  border: 1px solid;
+}
+
+.transaction_history_data {
+  font-size: 16px;
+  font-weight: 500;
+  color: darkslategrey;
+  padding: 10px;
+  border: 1px solid;
+}

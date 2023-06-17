@@ -13,22 +13,22 @@ export const Profile = ({
       <div className={css.description}>
         <img src={avatar} alt={username} className={css.avatar} />
         <p className={css.name}>{username}</p>
-        <p className={css.tag}>{tag}</p>
+        <p className={css.tag}>@{tag}</p>
         <p className={css.location}>{location}</p>
       </div>
 
       <ul className={css.stats}>
         <li className={css.elements}>
-          <span className={css.label}>Followers: </span>
-          <span className="quantity">{followers}</span>
+          <span className="label">Followers: </span>
+          <span className={css.quantity}>{followers}</span>
         </li>
         <li className={css.elements}>
           <span className="label">Views: </span>
-          <span className="quantity">{views}</span>
+          <span className={css.quantity}>{views}</span>
         </li>
         <li className={css.elements}>
           <span className="label">Likes: </span>
-          <span className="quantity">{likes}</span>
+          <span className={css.quantity}>{likes}</span>
         </li>
       </ul>
     </div>
