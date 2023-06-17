@@ -1,15 +1,15 @@
 .transaction_history {
   margin-right: auto;
   margin-left: auto;
-  margin-top: 10px;
-  width: 480px;
+  margin-top: 5px;
+  width: 520px;
   border: 1px solid;
   border-color: grey;
 }
 
 .transaction_history_head {
   font-size: 20px;
-  color: darkslategrey;
+  color: royalblue;
   padding: 20px;
   border: 1px solid;
 }

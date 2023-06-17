@@ -1,7 +1,7 @@
 .statistics {
-  background-color: lightgray;
+  background-color: snow;
   padding: 20px;
-  margin-top: 10px;
+  margin-top: 5px;
   margin-right: auto;
   margin-left: auto;
   width: 480px;
@@ -10,7 +10,7 @@
 }
 
 .title {
-  color: darkslategrey;
+  color: seagreen;
   margin-top: 0;
   margin-bottom: 8px;
 }

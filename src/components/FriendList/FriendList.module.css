@@ -13,7 +13,7 @@
   align-items: center;
   gap: 10px;
   padding: 10px 30px;
-  border: 0.5px solid grey;
+  border: 1px solid grey;
 }
 
 .friend_avatar {
@@ -39,7 +39,7 @@
 
 .friend_name {
   font-size: 24px;
-  color: darkslategrey;
+  color: royalblue;
 }
 .quantity {
   color: blue;

@@ -5,10 +5,11 @@
 
 .profile {
   width: 480px;
+  padding: 1px;
   margin-right: auto;
   margin-left: auto;
   border: 1px solid gray;
-  background-color: lightgray;
+  background-color: snow;
   border-radius: 10px;
 }
 .description {
@@ -53,7 +54,7 @@
   font-size: 16px;
   font-weight: 500;
   padding: 20px;
-  background-color: whitesmoke;
+  background-color: lightgray;
 }
 .quantity {
   font-weight: bold;
