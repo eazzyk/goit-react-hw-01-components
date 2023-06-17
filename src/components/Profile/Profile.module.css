@@ -23,7 +23,7 @@
 .name {
   font-size: 22px;
   font-weight: 700;
-  color: darkslategrey;
+  color: royalblue;
   margin-top: 0;
   margin-bottom: 5px;
 }
@@ -38,7 +38,7 @@
 .location {
   font-size: 16px;
   font-weight: 500;
-  color: darkslategrey;
+  color: teal;
   margin-top: 0;
   margin-bottom: 5px;
 }
